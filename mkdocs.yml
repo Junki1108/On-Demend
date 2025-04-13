@@ -10,6 +10,15 @@ nav:
   - "홈 | Home": index.md
   - "로깅 | Logging":
     - Fluentbit: Logging/fluentbit.md
+  - "EC2":
+    - Systemd: EC2/systemd.md
+  - "ECS":
+    - Docker: ECS/docker.md
+  - "EKS":
+    - Installation: EKS/install.md
+  - "양세찬":
+    - "04.14": "양세찬/0414.md" 
 theme:
   name: dracula
-  logo: i.png
+  logo: logo.png
+  favicon: favicon.svg
