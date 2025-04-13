@@ -1,0 +1,15 @@
+site_name: On-Demend
+site_url: https://junki1108.github.io/On-Demend/
+site_description: On-Demand AWS
+site_author: Junki1108
+repo_url: https://github.com/Junki1108/On-Demend
+repo_name: Junki1108/On-Demend
+edit_uri: edit/main/docs/
+language: ko
+nav:
+  - "홈 | Home": index.md
+  - "로깅 | Logging":
+    - Fluentbit: Logging/fluentbit.md
+theme:
+  name: dracula
+  logo: i.png
