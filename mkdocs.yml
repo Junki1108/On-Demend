@@ -16,7 +16,7 @@ nav:
     - Docker: ECS/docker.md
   - "EKS":
     - Installation: EKS/install.md
-  - "양세찬":
+  - "[수행] 양세찬":
     - "04.14": "양세찬/0414.md" 
 theme:
   name: dracula
