@@ -17,7 +17,8 @@ nav:
   - "EKS":
     - Installation: EKS/install.md
   - "[수행] 양세찬":
-    - "04.14": "양세찬/0414.md" 
+    - "04.14": "양세찬/0414.md"
+  - "이세찬이 멍청한 이유를 아십니까?": "양세찬/stu.md"
 theme:
   name: dracula
   logo: logo.png
