@@ -10,7 +10,7 @@
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        animation: aaa 2s linear ease-in infinite;
+        animation: aaa 2s ease-in infinite;
     }
     @keyfrmaes aaa {
         from {background-color: #55F;}
