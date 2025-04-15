@@ -10,6 +10,12 @@
         flex-direction: row;
         align-items: center;
         justify-content: center;
+        animation: aaa 2s linear ease-in infinite;
+    }
+    @keyfrmaes aaa {
+        from {background-color: #55F;}
+        50% {background-color: #05F;}
+        to% {background-color: #55F;}
     }
     #banner > img {
         margin-left: 15%;
