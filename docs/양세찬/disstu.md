@@ -28,7 +28,7 @@
     <img src="../po.png" width="150px">
     <h2 style="color: #FFF;"><- 이세찬</h2>
 </div>
-## 각 문항에 답변하세요.
+## 질문에 대답하세요 :
 ### Q1. 이세찬이 멍청한 이유는?
 
 <h4 contenteditable="true" onkeydown="return event.key !== 'Enter'" style="color: lightblue; border: 1px solid white; border-radius: 10px 10px;"></h4>
