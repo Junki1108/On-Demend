@@ -8,6 +8,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    float: left;
+    margin-left: 10px;
 }
 #tal > img {
     width: 70%;
@@ -25,3 +27,4 @@
 #tal > img:active {animation: rotate 0.5s linear infinite;}
 </style>
 <div id="tal"><img src="../talmo.jpeg"></div>
+<div id="tal"><img src="../pig.jpeg"></div>

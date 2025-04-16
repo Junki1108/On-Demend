@@ -20,7 +20,7 @@ nav:
     - "04.14": "양세찬/0414.md"
   - "이세찬이 멍청한 이유를 아십니까?": "양세찬/stu.md"
   - "[Private] Protection": "etc/a.md"
-  - "탈모에 대해 공부하세요.": "etc/b.md"
+  - "탈모 및 뚱땡이에 대해 공부하세요.": "etc/b.md"
 theme:
   name: dracula
   logo: logo.png
