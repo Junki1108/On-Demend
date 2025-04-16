@@ -48,9 +48,9 @@
     to {transform: rotate(-360deg);}
 }
 #tal1 > img:hover {width: 85%; height: 85%;}
-#tal1 > img:active {animation: rotate 0.5s linear infinite;}
+#tal1 > img:active {animation: rotate1 0.5s linear infinite;}
 #tal2 > img:hover {width: 85%; height: 85%;}
-#tal2 > img:active {animation: rotate 0.5s linear infinite;}
+#tal2 > img:active {animation: rotate2 0.002ms linear infinite;}
 </style>
 <div id="tal1"><img src="../talmo.jpeg"></div>
 <div id="tal2"><img src="../pig.jpeg"></div>
