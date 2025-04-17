@@ -1,4 +1,13 @@
 # 이상한 사람들
+<script>
+  const password = prompt("인증이 필요합니다. 비밀번호를 입력하세요.");
+
+  if (password !== "flag1235") {
+    alert("비밀번호가 틀렸습니다. 당신은 접근할 권한이 없습니다.");
+    history.back();
+  }
+</script>
+
 <style>
 .squ { width: 300px; height: 300px; display: flex; justify-content: center; align-items: center; float: left; border-radius: 100px 100px; margin-right: 20px;}
 .squ > img {width: 70%; height: 70%; border-radius: 75px 75px; transition: 0.5s;}
