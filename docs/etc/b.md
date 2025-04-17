@@ -8,7 +8,7 @@
 #box2 > img {animation: rotate2 3s linear infinite;}
 #box3 {background-color: #EDCE45; box-shadow: yellow 10px 10px 20px;}
 #box3 > img {animation: rotate3 2s linear infinite;}
-#box4 {background-color: #5EED45; box-shadow: yellow 10px 10px 20px;}
+#box4 {background-color: #5EED45; box-shadow: lime 10px 10px 20px;}
 #box4 > img {animation: rotate4 2s linear infinite;}
 @keyframes rotate1 {
     from {transform: rotate(0deg);}
