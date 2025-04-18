@@ -4,7 +4,7 @@
 
   if (password !== "flag1235") {
     alert("비밀번호가 틀렸습니다. 당신은 접근할 권한이 없습니다.");
-    history.back();
+    window.location.href = "/On-Demend/etc/403/";
   }
 </script>
 

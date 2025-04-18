@@ -16,11 +16,14 @@ nav:
     - Docker: ECS/docker.md
   - "EKS":
     - Installation: EKS/install.md
-  - "[수행] 양세찬":
-    - "04.14": "양세찬/0414.md"
+  - "DB-A":
+    - "04.14": "NoAWS/DB-A/0414s.md"
+  - "Protection":
+    - "04.15": "NoAWS/Protection/0415s.md"
+    - "04.17-1": "NoAWS/Protection/0417-1.md"
+    - "04.17-2": "NoAWS/Protection/0417-2.md"
   - "*비공개 - 이세찬이 멍청한 이유를 아십니까?": "양세찬/stu.md"
-  - "[Private] Protection": "etc/a.md"
-  - "이상한 사람들": "etc/b.md"
+  - "<p style='color: lime; transition: 0.5s;'>이상한 사람들</p>": "etc/b.md"
 theme:
   name: dracula
   logo: logo.png
