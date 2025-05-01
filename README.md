@@ -8,7 +8,7 @@
 💻 High school student studying cloud computing  
 ☁️ `AWS` Is the Platform I Enjoy the Most ! 💎  
   
-[![On-Demend's Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,python,terraform&theme=light)
+![On-Demend's Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,python,terraform&theme=light)
 
 # 🏆 Awards
 - 🥇 2025 지방기능경기대회 클라우드컴퓨팅 금메달 (**Worldskills Korea**)   
