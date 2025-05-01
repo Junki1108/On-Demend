@@ -8,13 +8,13 @@
 💻 High school student studying cloud computing  
 ☁️ `AWS` Is the Platform I Enjoy the Most ! 💎  
   
-[![On-Demend's Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,python,terraform&theme=light)](https://skillicons.dev)
+[![On-Demend's Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,python,terraform&theme=light)
 
 # 🏆 Awards
 - 🥇 2025 지방기능경기대회 클라우드컴퓨팅 금메달 (**Worldskills Korea**)   
   
 # 📈 Stats
 ![On-Demend's GitHub stats](https://github-readme-stats.vercel.app/api?username=On-Demend&show_icons=true&theme=ambient_gradient)
-[![On-Demend's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=On-Demend&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
+[![On-Demend's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=On-Demend&layout=donut)
 
 ![footer](https://capsule-render.vercel.app/api?type=rounded&height=100&color=black&text=On-Demend&fontColor=FFFFFF&animation=blinking)
