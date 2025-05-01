@@ -15,6 +15,6 @@
   
 # 📈 Stats
 ![On-Demend's GitHub stats](https://github-readme-stats.vercel.app/api?username=On-Demend&show_icons=true&theme=ambient_gradient)
-[![On-Demend's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=On-Demend&layout=donut)
+![On-Demend's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=On-Demend&layout=donut)
 
 ![footer](https://capsule-render.vercel.app/api?type=rounded&height=100&color=black&text=On-Demend&fontColor=FFFFFF&animation=blinking)
