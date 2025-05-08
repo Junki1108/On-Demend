@@ -18,6 +18,7 @@ nav:
     - Installation: EKS/install.md
   - "DB-A":
     - "04.14": "NoAWS/DB-A/0414s.md"
+    - "05.08": "NoAWS/DB-A/0508s.md"
   - "Protection":
     - "04.15": "NoAWS/Protection/0415s.md"
     - "04.17-1": "NoAWS/Protection/0417-1.md"
