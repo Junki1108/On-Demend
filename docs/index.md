@@ -1,5 +1,9 @@
 # HOME :: On-Demend
 
-### `AWS 자료 정리용`
+## 👋 On-Demend
 
-아직 정리 중 입니다.
+#### `On-Demend means On-Demand Resources, powered by Elastic scalability`
+
+- Version : 0.1.0
+- Created : Apr 14, 2025
+- Last Updated : May 22, 2025

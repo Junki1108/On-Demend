@@ -16,13 +16,24 @@ nav:
     - Docker: ECS/docker.md
   - "EKS":
     - Installation: EKS/install.md
-  - "DB-A":
-    - "04.14": "NoAWS/DB-A/0414s.md"
-    - "05.08": "NoAWS/DB-A/0508s.md"
-  - "Protection":
-    - "04.15": "NoAWS/Protection/0415s.md"
-    - "04.17-1": "NoAWS/Protection/0417-1.md"
-    - "04.17-2": "NoAWS/Protection/0417-2.md"
+  - "Getting Started":
+    - "HTML/CSS":
+      - "HTML": "Getting Started/HTML/html.md"
+      - "CSS": "Getting Started/HTML/css.md"
+    - "Linux":
+      - "Commands": "Getting Started/Linux/Command.md"
+    - "Network":
+      - "IP & Subnet": "Getting Started/Network/IP.md"
+      - "Protocols": "Getting Started/Network/Protocols.md"
+      - "HTTP": "Getting Started/Network/HTTP.md"
+  - "Private":
+    - "DB-A":
+      - "04.14": "NoAWS/DB-A/0414s.md"
+      - "05.08": "NoAWS/DB-A/0508s.md"
+    - "Protection":
+      - "04.15": "NoAWS/Protection/0415s.md"
+      - "04.17-1": "NoAWS/Protection/0417-1.md"
+      - "04.17-2": "NoAWS/Protection/0417-2.md"
   - "*비공개 - 이세찬이 멍청한 이유를 아십니까?": "양세찬/stu.md"
   - "<p style='color: lime; transition: 0.5s;'>이상한 사람들</p>": "etc/b.md"
 theme:
