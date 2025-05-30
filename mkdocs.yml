@@ -16,6 +16,8 @@ nav:
     - Docker: ECS/docker.md
   - "EKS":
     - Installation: EKS/install.md
+  - "CI/CD":
+    - "CodeDeploy": "CI&CD/CodeDeploy/ECS.md"
   - "Getting Started":
     - "HTML/CSS":
       - "HTML": "Getting Started/HTML/html.md"
@@ -36,6 +38,8 @@ nav:
       - "04.17-2": "NoAWS/Protection/0417-2.md"
   - "*비공개 - 이세찬이 멍청한 이유를 아십니까?": "양세찬/stu.md"
   - "<p style='color: lime; transition: 0.5s;'>이상한 사람들</p>": "etc/b.md"
+  - "Etc Tools":
+    - "AWS-Nuke": "ETC Tools/AWS-Nuke/default.md"
 theme:
   name: dracula
   logo: logo.png
