@@ -1,23 +1,24 @@
 site_name: On-Demend
-site_url: https://junki1108.github.io/On-Demend/
+site_url: https://on-demend.github.io/On-Demend/
 site_description: On-Demand AWS
-site_author: Junki1108
-repo_url: https://github.com/Junki1108/On-Demend
+site_author: On-Demand
+repo_url: https://github.com/On-Demand/On-Demend
 repo_name: On-Demend/On-Demend
 edit_uri: edit/main/docs/
-language: ko
+language: en
 nav:
-  - "홈 | Home": index.md
-  - "로깅 | Logging":
-    - Fluentbit: Logging/fluentbit.md
+  - "Home": index.md
+  - "CI/CD":
+    - "CodeDeploy": "CI&CD/CodeDeploy/ECS.md"
   - "EC2":
     - Systemd: EC2/systemd.md
   - "ECS":
     - Docker: ECS/docker.md
   - "EKS":
     - Installation: EKS/install.md
-  - "CI/CD":
-    - "CodeDeploy": "CI&CD/CodeDeploy/ECS.md"
+  - "Logging":
+    - Fluentbit: Logging/fluentbit.md
+  
   - "Getting Started":
     - "HTML/CSS":
       - "HTML": "Getting Started/HTML/html.md"

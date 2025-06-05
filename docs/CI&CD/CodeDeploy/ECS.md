@@ -1,4 +1,5 @@
 # ECS
+### Blue/Green
 ```bash
 version: 0.0
 Resources:
